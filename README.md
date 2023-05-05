@@ -1,4 +1,5 @@
-# Mediapipe
+# Mediapipe Hand Open/Close
+
 #EN
 This code is a Python program designed to perform hand detection and hand position analysis using the MediaPipe and OpenCV libraries. The program consists of two different sections:
 
